@@ -1,0 +1,10 @@
+
+#about_blue{background-color: #6495ED;
+ border-style: solid;
+   border-width: 3px;}
+#about_blue li{color: blue}
+#about_yellow{background-color: #FFEBCD;border-style: solid;
+   border-width: 3px;}
+.nav a{background-color: red; color: white}
+#about_yellow li{color: orange}
+.important{font-size: 16px; font-weight: bold;}
